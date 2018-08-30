@@ -1,0 +1,4 @@
+C:\Users\Gokul\Documents\Visual Studio 2013\Projects\WCFProject\SalesClassLibrary\bin\Debug\SalesClassLibrary.dll
+C:\Users\Gokul\Documents\Visual Studio 2013\Projects\WCFProject\SalesClassLibrary\bin\Debug\SalesClassLibrary.pdb
+C:\Users\Gokul\Documents\Visual Studio 2013\Projects\WCFProject\SalesClassLibrary\obj\Debug\SalesClassLibrary.dll
+C:\Users\Gokul\Documents\Visual Studio 2013\Projects\WCFProject\SalesClassLibrary\obj\Debug\SalesClassLibrary.pdb

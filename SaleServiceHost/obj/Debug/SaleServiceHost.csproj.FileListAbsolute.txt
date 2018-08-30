@@ -1,0 +1,8 @@
+C:\Users\Gokul\documents\visual studio 2013\Projects\WCFProject\SaleServiceHost\bin\SaleServiceHost.dll.config
+C:\Users\Gokul\documents\visual studio 2013\Projects\WCFProject\SaleServiceHost\bin\SaleServiceHost.dll
+C:\Users\Gokul\documents\visual studio 2013\Projects\WCFProject\SaleServiceHost\bin\SaleServiceHost.pdb
+C:\Users\Gokul\documents\visual studio 2013\Projects\WCFProject\SaleServiceHost\bin\SalesClassLibrary.dll
+C:\Users\Gokul\documents\visual studio 2013\Projects\WCFProject\SaleServiceHost\bin\SalesClassLibrary.pdb
+C:\Users\Gokul\documents\visual studio 2013\Projects\WCFProject\SaleServiceHost\obj\Debug\SaleServiceHost.csprojResolveAssemblyReference.cache
+C:\Users\Gokul\documents\visual studio 2013\Projects\WCFProject\SaleServiceHost\obj\Debug\SaleServiceHost.dll
+C:\Users\Gokul\documents\visual studio 2013\Projects\WCFProject\SaleServiceHost\obj\Debug\SaleServiceHost.pdb
